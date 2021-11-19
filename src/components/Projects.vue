@@ -6,7 +6,7 @@
 				<p class="text-white font-bold text-2xl sm:text-1xl lg:text-4xl uppercase">{{role}}</p>
 				<p class="text-white text-md mt-4 uppercase">{{name}}</p>
 				<p class="text-white font-bold text-md lg:text-xl uppercase">{{client}}</p>
-				<div class="mt-4 absolute right-4 lg:right-8 bottom-5 lg:bottom-10">
+				<div v-if="link" class="mt-4 absolute right-4 lg:right-8 bottom-5 lg:bottom-10">
 					<a :href="link" target="_blank" class="bg-white py-1 px-2 lg:py-2 lg:px-3 rounded-full font-semibold uppercase text-gray-600 hover:text-black transition-all"> ➤</a>
 				</div>
 			</div>

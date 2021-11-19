@@ -65,11 +65,14 @@
 				<Projects img="https://i.imgur.com/291JJuu.jpg" name="Cecon Landing Pages" role="Front-end development" client="31 Digital Media" link="" />
 				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App" role="Full-stack development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
 				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
+				<Projects img="https://i.imgur.com/lyk6vnc.jpg" name="Rockwell Website" role="Mobile Front-end development" client="31 Digital Media" link="https://www.prosceniumatrockwell.com/" />
 				<Projects img="https://i.imgur.com/w0nBAj9.jpg" name="IP Address Tracker Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				<Projects img="https://i.imgur.com/05j8XcL.jpg" name="Vivenso Website" role="Front-end development" client="31 Digital Media" link="https://vivenso.ph/" />
+				<Projects img="https://i.imgur.com/l6G8zVd.jpg" name="UMI Collections" role="Front-end development" client="UMI Collections" link="https://umicollections.secure-decoration.com/" />
 				<Projects img="https://i.imgur.com/xUxzbrp.jpg" name="Easy Franchise Website" role="Front-end development" client="31 Digital Media" link="https://www.easyfranchise.com/" />
 				<Projects img="https://i.imgur.com/MffdnA4.jpg" name="Beepbeep Website" role="Front-end development" client="31 Digital Media" link="https://beepbeep.ph/" />
 				<Projects img="https://i.imgur.com/Sfx2GKd.jpg" name="Brentertainment Website" role="Front-end development" client="31 Digital Media" link="" />
+				<Projects img="https://i.imgur.com/Dz2yfTK.jpg" name="Anongsayo Website" role="Full-stack development & Design" client="Anong Sayo" link="" />
 			</div>
 		</div>
 	</div>

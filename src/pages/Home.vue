@@ -15,17 +15,17 @@
 	<header class="flex justify-center py-14 h-auto lg:h-screen">
 		<div class="self-center">
 			<div class="flex justify-center relative h-96">
-				<a href="#" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
+				<a href="https://wa.me/+639761363085" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
 					<span class="self-end">
 						<img alt="icon" src="../assets/icons/whatsapp-icon.png" class="opacity-20 transition-all" />
 					</span>
 				</a>
-				<a href="#" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-100 h-96 transition-all">
+				<a href="mailto:caluyaalyssamae@gmail.com" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-100 h-96 transition-all">
 					<span class="self-end">
 						<img alt="icon" src="../assets/icons/gmail-icon.png" class="opacity-20 transition-all" />
 					</span>
 				</a>
-				<a href="#" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
+				<a href="https://github.com/alyssie" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
 					<span class="self-end">
 						<img alt="icon" src="../assets/icons/github-icon.png" class="opacity-20 transition-all" />
 					</span>

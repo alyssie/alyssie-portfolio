@@ -58,11 +58,7 @@
 		<div class="container mx-auto py-10 px-2 px-lg-40 relative">
 			<!-- <img src="../assets/icons/shape-a.svg" alt="" class="absolute -top-56 -left-10 z-0"> -->
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
-				<Projects img="https://i.imgur.com/mSeWMQk.png" name="Cromlech Website" role="Wordpress development" client="TAYP" link="https://cromlech.com.ph/" />
-				<Projects img="https://i.imgur.com/vfKSW1y.png" name="Tara Na Casino Website" role="Wordpress development" client="TAYP" link="https://taranacasino.com/" />
-				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
-				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
-				<Projects img="https://i.imgur.com/L94FUJ3.png" name="KiPay Website" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
+				<Projects img="https://i.imgur.com/PxXCWKX.png" name="Sylvester Website" role="Front-end development" client="Personal Project" link="https://alyssie-sylvester.netlify.app/" />
 				<Projects img="https://i.imgur.com/vlH2cJM.jpg" name="KiPay Website" role="Full-stack development & Design" client="KiPay Exchange" link="https://kipayexchange.com" />
 				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
 				<Projects img="https://i.imgur.com/POkTtpZ.jpg" name="Supsoft Tech Website" role="Full-stack development & Design" client="Supsoft Technologies" link="http://supsofttech.com/" />
@@ -78,6 +74,11 @@
 				<Projects img="https://i.imgur.com/MffdnA4.jpg" name="Beepbeep Website" role="Front-end development" client="31 Digital Media" link="https://beepbeep.ph/" />
 				<Projects img="https://i.imgur.com/Sfx2GKd.jpg" name="Brentertainment Website" role="Front-end development" client="31 Digital Media" link="" />
 				<Projects img="https://i.imgur.com/Dz2yfTK.jpg" name="Anongsayo Website" role="Full-stack development & Design" client="Anong Sayo" link="" />
+				<Projects img="https://i.imgur.com/mSeWMQk.png" name="Cromlech Website" role="Wordpress development" client="TAYP" link="https://cromlech.com.ph/" />
+				<Projects img="https://i.imgur.com/vfKSW1y.png" name="Tara Na Casino Website" role="Wordpress development" client="TAYP" link="https://taranacasino.com/" />
+				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
+				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
+				<Projects img="https://i.imgur.com/L94FUJ3.png" name="KiPay Website" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
 			</div>
 		</div>
 	</div>

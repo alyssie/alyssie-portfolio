@@ -40,15 +40,15 @@
 			</div>
 			<div class="counter flex justify-around mx-auto mt-10">
 				<div>
-					<p class="text-center font-light text-xl font-bold">5</p>
+					<p class="text-center font-light text-xl font-bold">10+</p>
 					<p class="text-center font-light text-base">CLIENTS</p>
 				</div>
 				<div>
-					<p class="text-center font-light text-xl font-bold">20+</p>
+					<p class="text-center font-light text-xl font-bold">40+</p>
 					<p class="text-center font-light text-base">PROJECTS</p>
 				</div>
 				<div>
-					<p class="text-center font-light text-xl font-bold">5</p>
+					<p class="text-center font-light text-xl font-bold">7</p>
 					<p class="text-center font-light text-base">YEARS</p>
 				</div>
 			</div>
@@ -60,6 +60,8 @@
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
 				<Projects img="https://i.imgur.com/SJ3OjaL.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website" role="Front-end development" client="31 Digital" link="" />
+				<Projects img="https://i.imgur.com/Ea0XVot.jpg" name="Toys Ultra Website" role="Front-end development" client="TAYP" link="" />
+				<Projects img="https://i.imgur.com/7AygC2c.jpg" name="Commercial DB Website" role="Full-stack development & Design" client="Patrick Ooi" link="https://commercialdb.com/" />
 				<Projects img="https://i.imgur.com/Xycg8Bm.jpg" name="Notorious Motorsports Website" role="Front-end development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
 				<Projects img="https://i.imgur.com/hhRpQ31.jpg" name="RPGamePacks Website" role="Front-end development" client="TAYP" link="https://rpgamepacks.net/" />
 				<Projects img="https://i.imgur.com/NmzVNYJ.jpg" name="Sneakerschief Website" role="Front-end development" client="TAYP" link="https://sneakerschief.com/" />
@@ -84,6 +86,7 @@
 				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
 				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
 				<Projects img="https://i.imgur.com/L94FUJ3.png" name="Jbeap" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
+				<Projects img="https://i.imgur.com/sQ2B03H.jpg" name="Eight Infinity Website" role="Front-end development" client="TAYP" link="https://eightinfinity.com.ph/" />
 				<Projects img="https://i.imgur.com/5nqAP2W.jpg" name="Allegro" role="Wordpress development" client="31 Digital" link="https://allegrobeverage.com/" />
 			</div>
 		</div>

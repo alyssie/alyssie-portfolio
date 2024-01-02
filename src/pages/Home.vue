@@ -58,6 +58,11 @@
 		<div class="container mx-auto py-10 px-2 px-lg-40 relative">
 			<!-- <img src="../assets/icons/shape-a.svg" alt="" class="absolute -top-56 -left-10 z-0"> -->
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
+				<Projects img="https://i.imgur.com/SJ3OjaL.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
+				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website" role="Front-end development" client="31 Digital" link="" />
+				<Projects img="https://i.imgur.com/Xycg8Bm.jpg" name="Notorious Motorsports Website" role="Front-end development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
+				<Projects img="https://i.imgur.com/hhRpQ31.jpg" name="RPGamePacks Website" role="Front-end development" client="TAYP" link="https://rpgamepacks.net/" />
+				<Projects img="https://i.imgur.com/NmzVNYJ.jpg" name="Sneakerschief Website" role="Front-end development" client="TAYP" link="https://sneakerschief.com/" />
 				<Projects img="https://i.imgur.com/PxXCWKX.png" name="Sylvester Website" role="Front-end development" client="Personal Project" link="https://alyssie-sylvester.netlify.app/" />
 				<Projects img="https://i.imgur.com/vlH2cJM.jpg" name="KiPay Website" role="Full-stack development & Design" client="KiPay Exchange" link="https://kipayexchange.com" />
 				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
@@ -78,7 +83,8 @@
 				<Projects img="https://i.imgur.com/vfKSW1y.png" name="Tara Na Casino Website" role="Wordpress development" client="TAYP" link="https://taranacasino.com/" />
 				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
 				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
-				<Projects img="https://i.imgur.com/L94FUJ3.png" name="KiPay Website" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
+				<Projects img="https://i.imgur.com/L94FUJ3.png" name="Jbeap" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
+				<Projects img="https://i.imgur.com/5nqAP2W.jpg" name="Allegro" role="Wordpress development" client="31 Digital" link="https://allegrobeverage.com/" />
 			</div>
 		</div>
 	</div>

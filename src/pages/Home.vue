@@ -64,12 +64,8 @@
 				<Projects img="https://i.imgur.com/Ea0XVot.jpg" name="Toys Ultra Website" role="Front-end development" client="TAYP" link="" />
 				<Projects img="https://i.imgur.com/7AygC2c.jpg" name="Commercial DB Website" role="Full-stack development & Design" client="Patrick Ooi" link="https://commercialdb.com/" />
 				<Projects img="https://i.imgur.com/Xycg8Bm.jpg" name="Notorious Motorsports Website" role="Front-end development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
-				<Projects img="https://i.imgur.com/hhRpQ31.jpg" name="RPGamePacks Website" role="Front-end development" client="TAYP" link="https://rpgamepacks.net/" />
 				<Projects img="https://i.imgur.com/NmzVNYJ.jpg" name="Sneakerschief Website" role="Front-end development" client="TAYP" link="https://sneakerschief.com/" />
 				<Projects img="https://i.imgur.com/PxXCWKX.png" name="Sylvester Website" role="Front-end development" client="Personal Project" link="https://alyssie-sylvester.netlify.app/" />
-				<Projects img="https://i.imgur.com/vlH2cJM.jpg" name="KiPay Website" role="Full-stack development & Design" client="KiPay Exchange" link="https://kipayexchange.com" />
-				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
-				<Projects img="https://i.imgur.com/291JJuu.jpg" name="Cecon Landing Pages" role="Front-end development" client="31 Digital Media" link="" />
 				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App" role="Full-stack development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
 				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				<Projects img="https://i.imgur.com/w0nBAj9.jpg" name="IP Address Tracker Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
@@ -77,22 +73,27 @@
 				<Projects img="https://i.imgur.com/l6G8zVd.jpg" name="UMI Collections" role="Front-end development" client="UMI Collections" link="https://umicollections.secure-decoration.com/" />
 				<Projects img="https://i.imgur.com/Dz2yfTK.jpg" name="Anongsayo Website" role="Full-stack development & Design" client="Anong Sayo" link="" />
 				<Projects img="https://i.imgur.com/mSeWMQk.png" name="Cromlech Website" role="Wordpress development" client="TAYP" link="https://cromlech.com.ph/" />
-				<Projects img="https://i.imgur.com/vfKSW1y.png" name="Tara Na Casino Website" role="Wordpress development" client="TAYP" link="https://taranacasino.com/" />
 				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
 				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
-				<Projects img="https://i.imgur.com/L94FUJ3.png" name="Jbeap" role="Wordpress development" client="TAYP" link="https://jbeapindustries.ph/" />
 				<Projects img="https://i.imgur.com/sQ2B03H.jpg" name="Eight Infinity Website" role="Front-end development" client="TAYP" link="https://eightinfinity.com.ph/" />
-				<Projects img="https://i.imgur.com/5nqAP2W.jpg" name="Allegro" role="Wordpress development" client="31 Digital" link="https://allegrobeverage.com/" />
-
-
 
 				
-				<Projects img="https://i.imgur.com/OCB1QIz.png" name="Proscenium at Rockwell - 2020" role="Mobile Front-end development" client="31 Digital Media" link="https://www.prosceniumatrockwell.com/" />
+				<Projects img="https://i.imgur.com/4Uw3p1H.png" name="RPGamePacks Website - 2022" role="Front-end development" client="TAYP" link="https://rpgamepacks.net/" />
+				<Projects img="https://i.imgur.com/RYpcFIY.png" name="Jbeap Industries - 2022" role="WordPress development" client="TAYP" link="https://jbeapindustries.ph/" />
+				<Projects img="https://i.imgur.com/6bZhVsK.png" name="Sportsbets Website - 2022" role="WordPress development" client="31 Digital" link="" />
+				<Projects img="https://i.imgur.com/NEnL3hk.png" name="Better Today Contact Page - 2022" role="Front-end development" client="31 Digital" link="" />
+				<Projects img="https://i.imgur.com/5nqAP2W.jpg" name="Allegro - 2022" role="WordPress development" client="31 Digital" link="https://allegrobeverage.com/" />
+				<Projects img="https://i.imgur.com/EBz5QyT.png" name="Tara Na Casino Website - 2021" role="WordPress development" client="TAYP" link="https://taranacasino.com/" />
+				<Projects img="https://i.imgur.com/vlH2cJM.jpg" name="KiPay Website - 2021" role="Full-stack development & Design" client="KiPay Exchange" link="" />
+				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website - 2021" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
+				<Projects img="https://i.imgur.com/W6OAlqk.png" name="Cookmunity by Ajinomoto - 2021" role="WordPress development" client="31 Digital Media" link="https://www.cookmunitybyajinomoto.com/" />
+				<Projects img="https://i.imgur.com/291JJuu.jpg" name="Cecon Landing Pages - 2021" role="Front-end development" client="31 Digital Media" link="" />
 				<Projects img="https://i.imgur.com/awKbnQL.png" name="Rockwell Primaries Website - 2021" role="Mobile Front-end development" client="31 Digital Media" link="https://rockwellprimaries.com.ph/" />
 				<Projects img="https://i.imgur.com/UhU5EcT.png" name="53 Benitez Website - 2021" role="Mobile Front-end development" client="31 Digital Media" link="https://rockwellprimaries.com.ph/projects/53-benitez/" />
 				<Projects img="https://i.imgur.com/OcjdYLP.png" name="Terreno South Rockwell Website - 2021" role="Mobile Front-end development" client="31 Digital Media" link="https://www.terrenosouth.com.ph/" />
 				<Projects img="https://i.imgur.com/kZZNabj.png" name="Nara Residence by Rockwell Website - 2021" role="Mobile Front-end development" client="31 Digital Media" link="https://www.nararesidencesbyrockwell.com/" />
 				<Projects img="https://i.imgur.com/FAAawS6.png" name="Rockwell South Carmelray Website - 2021" role="Mobile Front-end development" client="31 Digital Media" link="https://www.rockwellsouthatcarmelray.com/" />	
+				<Projects img="https://i.imgur.com/OCB1QIz.png" name="Proscenium at Rockwell - 2020" role="Mobile Front-end development" client="31 Digital Media" link="https://www.prosceniumatrockwell.com/" />
 				<Projects img="https://i.imgur.com/POkTtpZ.jpg" name="Supsoft Tech Website" role="Full-stack development & Design" client="Supsoft Technologies" link="http://supsofttech.com/" />
 				<Projects img="https://i.imgur.com/bHZSo1A.png" name="Unicomm Ingredients" role="Front-end development" client="31 Digital" link="https://www.unicommingredients.com/" />
 				<Projects img="https://i.imgur.com/4Z9apnk.jpg" name="Cheese Anything Webpage" role="Front-end development" client="31 Digital Media" link="https://www.cheeseanything.com/" />

@@ -58,7 +58,6 @@
 		<div class="container mx-auto py-10 px-2 px-lg-40 relative">
 			<!-- <img src="../assets/icons/shape-a.svg" alt="" class="absolute -top-56 -left-10 z-0"> -->
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
-				<Projects img="/assets/images/alyssie.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/SJ3OjaL.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website" role="Front-end development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/Ea0XVot.jpg" name="Toys Ultra Website" role="Front-end development" client="TAYP" link="" />
@@ -66,23 +65,23 @@
 				<Projects img="https://i.imgur.com/Xycg8Bm.jpg" name="Notorious Motorsports Website" role="Front-end development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
 				<Projects img="https://i.imgur.com/NmzVNYJ.jpg" name="Sneakerschief Website" role="Front-end development" client="TAYP" link="https://sneakerschief.com/" />
 				<Projects img="https://i.imgur.com/PxXCWKX.png" name="Sylvester Website" role="Front-end development" client="Personal Project" link="https://alyssie-sylvester.netlify.app/" />
-				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App" role="Full-stack development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
-				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
-				<Projects img="https://i.imgur.com/w0nBAj9.jpg" name="IP Address Tracker Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				
 				<Projects img="https://i.imgur.com/l6G8zVd.jpg" name="UMI Collections" role="Front-end development" client="UMI Collections" link="https://umicollections.secure-decoration.com/" />
 				<Projects img="https://i.imgur.com/Dz2yfTK.jpg" name="Anongsayo Website" role="Full-stack development & Design" client="Anong Sayo" link="" />
 				<Projects img="https://i.imgur.com/mSeWMQk.png" name="Cromlech Website" role="Wordpress development" client="TAYP" link="https://cromlech.com.ph/" />
 				<Projects img="https://i.imgur.com/xcA2s6W.png" name="Acht Pferde Website" role="Wordpress development" client="TAYP" link="https://achtpferde.com/" />
-				<Projects img="https://i.imgur.com/AmTlKK2.png" name="Criticaal Med Theory" role="Wordpress development" client="TAYP" link="https://criticalmedtheory.com/" />
 				<Projects img="https://i.imgur.com/sQ2B03H.jpg" name="Eight Infinity Website" role="Front-end development" client="TAYP" link="https://eightinfinity.com.ph/" />
 
 				
+				<Projects img="https://i.imgur.com/kEpVuUS.png" name="Critical Med Theory - 2022" role="WordPress development" client="TAYP" link="https://criticalmedtheory.com/" />
 				<Projects img="https://i.imgur.com/4Uw3p1H.png" name="RPGamePacks Website - 2022" role="Front-end development" client="TAYP" link="https://rpgamepacks.net/" />
 				<Projects img="https://i.imgur.com/RYpcFIY.png" name="Jbeap Industries - 2022" role="WordPress development" client="TAYP" link="https://jbeapindustries.ph/" />
 				<Projects img="https://i.imgur.com/6bZhVsK.png" name="Sportsbets Website - 2022" role="WordPress development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/NEnL3hk.png" name="Better Today Contact Page - 2022" role="Front-end development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/5nqAP2W.jpg" name="Allegro - 2022" role="WordPress development" client="31 Digital" link="https://allegrobeverage.com/" />
+				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App - 2021" role="Full-stack development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
+				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge - 2021" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
+				<Projects img="https://i.imgur.com/w0nBAj9.jpg" name="IP Address Tracker Challenge - 2021" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-ip-tracker.netlify.app" />
 				<Projects img="https://i.imgur.com/EBz5QyT.png" name="Tara Na Casino Website - 2021" role="WordPress development" client="TAYP" link="https://taranacasino.com/" />
 				<Projects img="https://i.imgur.com/vlH2cJM.jpg" name="KiPay Website - 2021" role="Full-stack development & Design" client="KiPay Exchange" link="" />
 				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website - 2021" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
@@ -99,7 +98,6 @@
 				<Projects img="https://i.imgur.com/4Z9apnk.jpg" name="Cheese Anything Webpage" role="Front-end development" client="31 Digital Media" link="https://www.cheeseanything.com/" />
 				<Projects img="https://i.imgur.com/05j8XcL.jpg" name="Vivenso Website" role="Front-end development" client="31 Digital Media" link="https://vivenso.ph/" />
 				<Projects img="https://i.imgur.com/xUxzbrp.jpg" name="Easy Franchise Website - 2019" role="Front-end development" client="31 Digital Media" link="https://www.easyfranchise.com/" />
-				<Projects img="https://i.imgur.com/l4dtUwg.png" name="News Article Website - 2018" role="Front-end development" client="Private Info" link="" />
 				<Projects img="https://i.imgur.com/l4dtUwg.png" name="Delivery Website - 2018" role="Front-end development" client="Private Info" link="" />
 				<Projects img="https://i.imgur.com/MffdnA4.jpg" name="Beepbeep Website - 2018" role="Front-end development" client="31 Digital Media" link="https://beepbeep.ph/" />
 				<Projects img="https://i.imgur.com/Sfx2GKd.jpg" name="Brentertainment Website - 2017" role="Front-end development" client="31 Digital Media" link="" />

@@ -61,10 +61,10 @@
 
 				
 
-				<Projects img="https://i.imgur.com/xcA2s6W.png" name="PAWS Donation Website - 2024" role="Full WordPress Development" client="TAYP" link="https://donatetopaws.org.ph/" />
-				<Projects img="https://i.imgur.com/sQ2B03H.jpg" name="Benitez Private Resort Website - 2024" role="Full WordPress Development" client="TAYP" link="https://benitezresort.com/" />
-				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Shades of Pink Society Website - 2024" role="Front-end WordPress Development" client="JO" link="" />
-				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Imperial Cleaning Services Website - 2024" role="Front-end WordPress Development" client="Velenda" link="" />
+				<Projects img="https://i.imgur.com/pAQH5O1.png" name="PAWS Donation Website - 2024" role="Full WordPress Development" client="TAYP" link="https://donatetopaws.org.ph/" />
+				<Projects img="https://i.imgur.com/raSmNoS.png" name="Benitez Private Resort Website - 2024" role="Full WordPress Development" client="TAYP" link="https://benitezresort.com/" />
+				<Projects img="https://i.imgur.com/vo4tsgc.png" name="Burton Edge Website - 2024" role="Figma Web Design" client="Burton Edge" link="https://www.figma.com/design/PRKQr4xPa4F4kCB3MyI7i9/Burton-Edge?node-id=0-1&t=yP07EIRzLNZpKCeR-1" />
+				<Projects img="https://i.imgur.com/JKL8Y6s.png" name="Imperial Cleaning Services Website - 2024" role="Front-end WordPress Development" client="Velenda" link="" />
 				
 				<Projects img="https://i.imgur.com/hiYY4ND.png" name="KS TECH Website - 2024" role="Full WordPress Development" client="Naomi" link="" />
 				<Projects img="https://i.imgur.com/0mPkkNx.png" name="Kinman Website - 2024" role="Full WordPress Development" client="31 Digital" link="" />

@@ -15,7 +15,7 @@
 	<header class="flex justify-center py-14 h-auto lg:h-screen">
 		<div class="self-center">
 			<div class="flex justify-center relative h-96">
-				<a href="https://wa.me/+639761363085" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
+				<a href="viber://chat?number=%2B639063540820" class="stick flex self-center rounded-lg p-3 mx-3 mt-10 hover:h-86 h-82 transition-all">
 					<span class="self-end">
 						<img alt="icon" src="../assets/icons/whatsapp-icon.png" class="opacity-20 transition-all" />
 					</span>
@@ -44,7 +44,7 @@
 					<p class="text-center font-light text-base">CLIENTS</p>
 				</div>
 				<div>
-					<p class="text-center font-light text-xl font-bold">40+</p>
+					<p class="text-center font-light text-xl font-bold">50+</p>
 					<p class="text-center font-light text-base">PROJECTS</p>
 				</div>
 				<div>
@@ -58,9 +58,6 @@
 		<div class="container mx-auto py-10 px-2 px-lg-40 relative">
 			<!-- <img src="../assets/icons/shape-a.svg" alt="" class="absolute -top-56 -left-10 z-0"> -->
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
-
-				
-
 				<Projects img="https://i.imgur.com/2sz1GLV.png" name="PAWS Donation Website - 2024" role="Full WordPress Development" client="TAYP" link="https://donatetopaws.org.ph/" />
 				<Projects img="https://i.imgur.com/73nu7wG.png" name="Artpro Website - 2023" role="Full WordPress Developmentt" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/N2LReBG.png" name="El Poco Cantina - 2022" role="Full WordPress Development" client="TAYP" link="" />

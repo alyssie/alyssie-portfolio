@@ -58,7 +58,7 @@
 		<div class="container mx-auto py-10 px-2 px-lg-40 relative">
 			<!-- <img src="../assets/icons/shape-a.svg" alt="" class="absolute -top-56 -left-10 z-0"> -->
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 relative z-10">
-				<Projects img="../assets/images/alyssie.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
+				<Projects img="/assets/images/alyssie.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/SJ3OjaL.jpg" name="Artpro Website" role="Front-end development" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website" role="Front-end development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/Ea0XVot.jpg" name="Toys Ultra Website" role="Front-end development" client="TAYP" link="" />

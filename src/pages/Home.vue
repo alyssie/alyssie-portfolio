@@ -85,11 +85,11 @@
 				<Projects img="https://i.imgur.com/4Uw3p1H.png" name="RPGamePacks Website - 2022" role="Full WordPress Development" client="TAYP" link="https://rpgamepacks.net/" />
 				<Projects img="https://i.imgur.com/RYpcFIY.png" name="Jbeap Industries - 2022" role="Full WordPress Development" client="TAYP" link="https://jbeapindustries.ph/" />
 				<Projects img="https://i.imgur.com/NEnL3hk.png" name="Better Today Contact Page - 2022" role="Front-end Development" client="31 Digital" link="" />
-				<Projects img="https://i.imgur.com/6bZhVsK.png" name="Sportsbets Website - 2022" role="Full WordPress Development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/yLDXwDY.png" name="Allegro - 2022" role="Full WordPress Development" client="31 Digital" link="https://allegrobeverage.com/" />
+				<Projects img="https://i.imgur.com/6bZhVsK.png" name="Sportsbets Website - 2022" role="Full WordPress Development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/4Z9apnk.jpg" name="Cheese Anything Webpage - 2021" role="Front-end Development" client="31 Digital Media" link="https://www.cheeseanything.com/" />
-				<Projects img="https://i.imgur.com/suqxube.png" name="Unicomm Ingredients - 2021" role="Front-end Development" client="31 Digital" link="https://www.unicommingredients.com/" />
 				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App - 2021" role="Full-stack Development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
+				<Projects img="https://i.imgur.com/suqxube.png" name="Unicomm Ingredients - 2021" role="Front-end Development" client="31 Digital" link="https://www.unicommingredients.com/" />
 				<Projects img="https://i.imgur.com/Dz2yfTK.jpg" name="Anongsayo Website - 2021" role="Full-stack Development & Design" client="Anong Sayo" link="" />
 				<Projects img="https://i.imgur.com/l6G8zVd.jpg" name="UMI Collections - 2021" role="Front-end Development" client="UMI Collections" link="" />
 				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge - 2021" role="Full-stack Development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />

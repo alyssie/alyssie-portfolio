@@ -71,7 +71,7 @@
 				<Projects img="https://i.imgur.com/Sq7qffd.jpg" name="Go Volunteer Website" role="Full-stack development & Design" client="Supsoft Technologies" link="https://go-volunteer.netlify.app" />
 				<Projects img="https://i.imgur.com/291JJuu.jpg" name="Cecon Landing Pages" role="Front-end development" client="31 Digital Media" link="" />
 				<Projects img="https://i.imgur.com/sHGPOkY.jpg" name="Pomodoro App" role="Full-stack development & Design" client="Personal Project" link="https://alyssie-pomodoro-app.netlify.app" />
-				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" /
+				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				<Projects img="https://i.imgur.com/w0nBAj9.jpg" name="IP Address Tracker Challenge" role="Full-stack development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				
 				<Projects img="https://i.imgur.com/l6G8zVd.jpg" name="UMI Collections" role="Front-end development" client="UMI Collections" link="https://umicollections.secure-decoration.com/" />

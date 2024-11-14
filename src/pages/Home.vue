@@ -68,16 +68,16 @@
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="KS TECH Website - 2024" role="Full WordPress Development" client="Naomi" link="" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website - 2024" role="Full WordPress Development" client="31 Digital" link="" />
 				<Projects img="https://i.imgur.com/7AygC2c.jpg" name="Commercial DB Website - 2023" role="Full WordPress Development & Design" client="Patrick Ooi" link="https://commercialdb.com/" />
-				<Projects img="https://i.imgur.com/SJ3OjaL.jpg" name="Artpro Website - 2023" role="Full WordPress Developmentt" client="31 Digital" link="https://artprogames.com/" />
-				<Projects img="https://i.imgur.com/PxXCWKX.png" name="Dragonix Website - 2023" role="Elementor Widget Development" client="31 Digital" link="https://alyssie-sylvester.netlify.app/" />
-				<Projects img="https://i.imgur.com/Xycg8Bm.jpg" name="Notorious Motorsports Website - 2023" role="Full WordPress Development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
+				<Projects img="https://i.imgur.com/73nu7wG.png" name="Artpro Website - 2023" role="Full WordPress Developmentt" client="31 Digital" link="https://artprogames.com/" />
+				<Projects img="https://i.imgur.com/6YZL9xx.png" name="Dragonix Website - 2023" role="Elementor Widget Development" client="31 Digital" link="https://alyssie-sylvester.netlify.app/" />
+				<Projects img="https://i.imgur.com/bidNewl.png" name="Notorious Motorsports Website - 2023" role="Full WordPress Development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />
+				
 				<Projects img="https://i.imgur.com/ma3h1JM.png" name="The Coaching Group Website - 2023" role="Full WordPress Development" client="TAYP" link="https://coachinggroupinc.com/" />
 				<Projects img="https://i.imgur.com/ohkNzUB.png" name="Eight Infinity Website - 2023" role="Full WordPress Development" client="TAYP" link="https://eightinfinity.com.ph/" />
 				<Projects img="https://i.imgur.com/N2LReBG.png" name="El Poco Cantina - 2022" role="Full WordPress Development" client="TAYP" link="" />
 				<Projects img="https://i.imgur.com/hMPQAws.png" name="Tayp Food - 2022" role="Full WordPress Development" client="TAYP" link="tayp.ph/food" />
 				<Projects img="https://i.imgur.com/wG5IKEG.png" name="Acht Pferde Website - 2022" role="Full WordPress Development" client="TAYP" link="https://achtpferde.com/" />
-				
-				<Projects img="https://i.imgur.com/4Uw3p1H.png" name="RPGamePacks Website - 2022" role="Full WordPress Development" client="TAYP" link="https://rpgamepacks.net/" />
+				<Projects img="https://i.imgur.com/4Uw3p1H.png" name="RPGamePacks Website - 2022" role="Full WordPress Development" client="TAYP" link="" />
 				<Projects img="https://i.imgur.com/y9iEVtH.png" name="Toys Ultra Website - 2022" role="Full WordPress Development" client="TAYP" link="" />
 				<Projects img="https://i.imgur.com/cCMlhDY.png" name="Sylvester Website - 2022" role="Front-end development" client="Personal Project" link="https://alyssie-sylvester.netlify.app/" />
 				<Projects img="https://i.imgur.com/kEpVuUS.png" name="Critical Med Theory - 2022" role="Full WordPress Development" client="TAYP" link="https://criticalmedtheory.com/" />

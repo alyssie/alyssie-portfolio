@@ -65,9 +65,10 @@
 				<Projects img="https://i.imgur.com/sQ2B03H.jpg" name="Benitez Private Resort Website - 2024" role="Full WordPress Development" client="TAYP" link="https://benitezresort.com/" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Shades of Pink Society Website - 2024" role="Front-end WordPress Development" client="JO" link="" />
 				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Imperial Cleaning Services Website - 2024" role="Front-end WordPress Development" client="Velenda" link="" />
-				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="KS TECH Website - 2024" role="Full WordPress Development" client="Naomi" link="" />
-				<Projects img="https://i.imgur.com/Qu9AMx6.jpg" name="Kinman Website - 2024" role="Full WordPress Development" client="31 Digital" link="" />
-				<Projects img="https://i.imgur.com/7AygC2c.jpg" name="Commercial DB Website - 2023" role="Full WordPress Development & Design" client="Patrick Ooi" link="https://commercialdb.com/" />
+				
+				<Projects img="https://i.imgur.com/hiYY4ND.png" name="KS TECH Website - 2024" role="Full WordPress Development" client="Naomi" link="" />
+				<Projects img="https://i.imgur.com/0mPkkNx.png" name="Kinman Website - 2024" role="Full WordPress Development" client="31 Digital" link="" />
+				<Projects img="https://i.imgur.com/3EAQxHx.png" name="Commercial DB Website - 2023" role="Full WordPress Development & Design" client="Patrick Ooi" link="https://commercialdb.com/" />
 				<Projects img="https://i.imgur.com/73nu7wG.png" name="Artpro Website - 2023" role="Full WordPress Developmentt" client="31 Digital" link="https://artprogames.com/" />
 				<Projects img="https://i.imgur.com/6YZL9xx.png" name="Dragonix Website - 2023" role="Elementor Widget Development" client="31 Digital" link="https://alyssie-sylvester.netlify.app/" />
 				<Projects img="https://i.imgur.com/bidNewl.png" name="Notorious Motorsports Website - 2023" role="Full WordPress Development" client="TAYP" link="https://notoriousmotorsports.com.ph/" />

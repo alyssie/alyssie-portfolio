@@ -37,7 +37,8 @@
 			<div class="container introduction">
 				<h1 class="title text-center text-4xl font-black tracking-widest mt-16 mb-4">ALYSSIE</h1>
 				<p class="text-center font-light">Hello! Welcome to my portfolio.<br>I’m a freelance web developer based in Manila, Philippines.</p>
-				<p class="text-center font-light mt-5">Please note that the web designs shown here are not mine unless specified.</br>Some websites may be down, modified by their owners, or updated to a different version than what’s shown in the photos.</p>
+				<p class="text-center font-light mt-5">Please note that the web designs shown here are not mine unless specified.</p>
+				<p class="text-center font-light">Some websites may be down, modified by their owners, or updated to a different version than what’s shown in the photos.</p>
 			</div>
 			<div class="counter flex justify-around mx-auto mt-10">
 				<div>

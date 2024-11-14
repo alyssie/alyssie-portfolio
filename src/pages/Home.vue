@@ -36,7 +36,7 @@
 			</div>
 			<div class="introduction">
 				<h1 class="title text-center text-4xl font-black tracking-widest mt-16 mb-4">ALYSSIE</h1>
-				<p class="text-center font-light">Hello there! Welcome to my website.<br>I’m a freelance Web Developer based in Manila, Philippines.</p>
+				<p class="text-center font-light">Hello! Welcome to my portfolio. I’m a freelance web developer based in Manila, Philippines. The web designs shown here are not mine unless specified. Please note that some websites may be down, modified by their owners, or updated to a different version than what’s shown in the photos.</p>
 			</div>
 			<div class="counter flex justify-around mx-auto mt-10">
 				<div>
@@ -104,7 +104,7 @@
 				<Projects img="https://i.imgur.com/ZPMCkYs.jpg" name="Shortly Challenge - 2021" role="Full-stack Development" client="Front-end Mentor" link="https://alyssie-shortly-url-shortening-api.netlify.app" />
 				<Projects img="https://i.imgur.com/MffdnA4.jpg" name="Beepbeep Website - 2018" role="Front-end Development" client="31 Digital Media" link="https://beepbeep.ph/" />
 				<Projects img="https://i.imgur.com/Sfx2GKd.jpg" name="Brentertainment Website - 2017" role="Front-end Development" client="31 Digital Media" link="" />
-				<Projects img="https://i.imgur.com/q97juej.png" name="Asia Select - 2016" role="Front-end Development - 2016" client="Asia Select" link="" />
+				<Projects img="https://i.imgur.com/q97juej.png" name="Asia Select - 2016" role="Front-end Development" client="Asia Select" link="" />
 			</div>
 		</div>
 	</div>
